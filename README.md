@@ -1,8 +1,8 @@
-To either request support or contribute findings to the project, our Discord Server can be found [here](https://discord.gg/EF3Jq57jQv).  
-If you would like to donate as a means of showing thanks I have a kofi here! https://ko-fi.com/sqooky
+Para solicitar suporte ou contribuir com descobrimentos para o projeto, nosso servidor do Discord pode ser encontrado [aqui](https://discord.gg/EF3Jq57jQv).
+Se você quiser doar como forma de apreciação, eu tenho um Kofi aqui! https://ko-fi.com/sqooky
 
-**Donors!**
-I love you all so much
+**Doadores!**
+Eu amo muito vocẽs todos
 - Soulx
 - Boot
 - Xeno
@@ -12,12 +12,12 @@ I love you all so much
   <img src="https://github.com/Sqooky/OptimizationLock/blob/main/media/joy.png?raw=true" alt="A picture reading Sqooky's .gi A collage of performance configs with the intent of optimizing the game."/>
 </div>
 
-# Base Instructions
-To install the performance config replace the gameinfo.gi in ``steamapps/common/deadlock/game/citadel`` with the one downloaded from this repository.
-**There is a video tutorial** for installation avalible [here](https://youtu.be/TbjLbQVN2kE)
+# Instruções base
+Para seguir com a instalação da config substitua o arquivo gameinfo.gi em ``steamapps/common/deadlock/game/citadel`` com a versão baixada desse repositório.
+**Vídeo tutorial** (em inglês) para instalação a seguir [aqui](https://youtu.be/TbjLbQVN2kE)
 
-# Table
-Here is a list of each config provided in this repository.
+# Tabela
+Segue aqui uma lista de cada configuração presente neste repositório.
 | Config File                                                                                                                     | Purpose                                                                                                              |
 |---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | [Sqooky's Config/Optimizationlock Default](https://github.com/Sqooky/OptimizationLock/blob/main/Sqooky's%20.gi/gameinfo.gi)                                    | Performance oriented with the intent of not making the game ugly. I would recommend this for most users.                                                    |
