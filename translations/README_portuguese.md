@@ -2,11 +2,92 @@ Para solicitar suporte, ou, para contribuir com seus achados para o projeto, nos
 Caso queira fazer uma doação como forma de agradecimento eu tenho um Kofi aqui! https://ko-fi.com/sqooky
 
 **Doadores!**
-Eu amo muito todos vocês!
-- Soulx
+Eu amo muito todos vocês! 
+
+(Nota do editor: Removi os agradecimentos porque eu não conseguiria transmitir o mesmo sentimento de Sqooky, então, vá no readme original para ver <3);
+
 - Boot
-- Xeno
 - Sonny
+- Soulx
+- Xeno
+- N8Fan
+- Cos
+- Wely
+- Prot4g
+- catmasta
+- a distant admirer
+- Namea
+- Kevin
+- jusbeprophet
+- Supporter:
+- WhoLovesDean
+- john6674
+- noelle
+- exazinho
+- TheLastFriendly
+- Olly/Moozen
+- Neytir
+- Bytenode
+- John Dreamerman
+- Martinchodou
+- HaloKat/June
+- 6Daves
+- Ehmed
+- NawyLo3b
+- leroyaxrs
+- eleanordl
+- LokiSquared
+- Mr. Miyagi
+- Connermadethis
+- Noelle
+- Blerg
+- Drykdap
+- Salem
+- attention seeker
+- DungeonMaestro:
+- Smugfox:
+- TheTurtlezsz
+- Supporter
+- Umah:
+- Supporter
+- TheTurtlezsz
+- Smugfox64
+- DungeonMaestro
+- cele
+- faux_astre
+- MidnightSojuTv
+- blert
+- Shinjoto
+- Yawn
+- TurtleBoy
+- Supporter
+- Ludo
+- odie
+- sixsav
+- Yawn
+- salvator
+- CHANG
+- Shotty
+- maeaissance
+- sae sushio
+- dec
+- onetapman
+- Habitus
+- max
+- bingbinginc
+- aeyri
+- Supporter
+- soulx
+- Supporter
+- NSH
+- crush
+- Jill
+- Stable
+- Supporter
+- Isabellawa
+- nostmau
+- NicanorGordon
+- Harry
 
 <div>
   <img src="https://github.com/Sqooky/OptimizationLock/blob/main/media/joy_brazil.png?raw=true" alt="Uma imagem que lẽ o seguinte: (No meio) Uma coletânea de configurações com a intenção de otimizar o jogo. (Em baixo) Ou, OptimizationLock v2. (No topo) Obrigada pela toneladas de downloads (40k no GB)!"/>
@@ -94,10 +175,13 @@ Meus agradecimentos sinceros a todos esses indivíduos. São todos adoráveis.
 - Piggy:                Me deixou espelhar sua config;  
 - Soulx:                Me deu cinco dólares e me contou sobre espironolactona (muito foda, te amo);
 - Tamara Mochaccina:    Contribuiu com o ajuste de mira da Vindicta e ajuste da névoa.  
+- RoseyLemonz: Removeu cvars duplicadas.
+- Laund: Muito, muito útil e super duper legal, e, me ajudou fazendo coisas pra ajudar no fluxo de trabalho.
 
 
 ## Pessoas legais que conheci por este projeto e as quais quero agradecer por serem elas mesmas.
 - 6Daves
+- Achira
 - anartoast
 - Boot
 - GoreDaughter
@@ -109,9 +193,6 @@ Meus agradecimentos sinceros a todos esses indivíduos. São todos adoráveis.
 - Masteroms
 - PeachCebo
 - Tamara Mochaccina
-- Soulx
-- Piggy
-- Chatbaran
 - E você, obrigada por usar esse projeto e fazer o meu dia <3. Se cuidem, por favor.
 
 ## Pessoas incríveis que disponibilizaram suas capturas de tela para mim <33333
